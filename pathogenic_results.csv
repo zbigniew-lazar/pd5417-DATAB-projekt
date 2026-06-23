@@ -1,3 +1,4 @@
+patient_id,name,variant,position,impact
 "62","David Miller","rs12345","chr17:240444","Pathogenic"
 "78","Jane Smith","rs12345","chr17:240444","Pathogenic"
 "55","Bob Miller","rs112233","chr17:557723","Pathogenic"

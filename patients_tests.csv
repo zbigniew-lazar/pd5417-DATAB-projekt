@@ -1,3 +1,4 @@
+patient_id,name,test_type,test_date
 "1","David Miller","WES","2023-01-05"
 "1","David Miller","NGS-panel","2023-10-15"
 "2","John Garcia","WGS","2023-05-27"
